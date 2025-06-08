@@ -1,4 +1,6 @@
-### Hi there 👋
+Building toys, scratching itches.
+
+Welcome to my playground.
 
 <!--
 **ztomer/ztomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
